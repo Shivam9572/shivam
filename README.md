@@ -1,3 +1,6 @@
-#new commit
-tgis is init commit
 
+#initial commit
+this is a new commit
+
+#new feature
+the new feature
